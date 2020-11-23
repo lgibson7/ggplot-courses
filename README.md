@@ -15,7 +15,7 @@ Collection of teaching materials for the `R` package [`{ggplot2}`](https://ggplo
   + "Fundamentals of Data Visualization" by Claus Wilke  →  [serialmentor.com/dataviz](https://serialmentor.com/dataviz/)
 
 * **Galleries:**
-  + ggplot2 Extension Gallery  →  [ggplot2-exts.org/gallery](http://www.ggplot2-exts.org/gallery/)
+  + ggplot2 Extension Gallery  →  [exts.ggplot2.tidyverse.org/gallery](https://exts.ggplot2.tidyverse.org/gallery/)
   + R Graph Gallery  →  [r-graph-gallery.com](https://www.r-graph-gallery.com/)
   + Color Palettes in R  →  [github.com/EmilHvitfeldt/r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes/)
   + &#35;TidyTuesday Collection  →  [tidytuesday.rocks](http://tidytuesday.rocks/)
