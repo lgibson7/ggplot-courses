@@ -3,12 +3,12 @@
 Collection of teaching materials for the `R` package [`{ggplot2}`](https://ggplot2.tidyverse.org/).
 
 ### Presentations
-+ ["An Introduction to {`ggplot2`}"](https://cedricscherer.netlify.com/slides/2019-08-28-intro-ggplot-statsizw#1) — Slideshow — Stats Group of the Leibniz Institute for Zoo and Wildlife Research (2019-08-28)
++ ["An Introduction to `{ggplot2}`"](https://cedricscherer.netlify.com/slides/2019-08-28-intro-ggplot-statsizw#1) — Slideshow — Stats Group of the Leibniz Institute for Zoo and Wildlife Research (2019-08-28)
 + ["Effective Data Visualizations: How to design impactful and aesthetically pleasing charts"](https://z3tt.github.io/bespokeDS/) — Recording, Slides & Code — Heureka Labs bespokeDS session with live coding
 
 ### Blog Posts
-+ ["A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) — Extensive "How to"-Tutorial based on a [version from 2016 by Zev Ross](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/) (Last Update: 2020-12-07)
-+ ["The Evolution of a gpglot Part 1"](https://cedricscherer.netlify.app/2019/05/17/the-evolution-of-a-ggplot-ep.-1/) — Blog post on how to turn a default ggplot into a plot that visualizes information in an appealing and easily understandable way
++ ["A `{ggplot2}` Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) — Extensive "How to"-Tutorial based on a [version from 2016 by Zev Ross](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/) (Last Update: 2020-12-07)
++ ["The Evolution of a ggplot Part 1"](https://cedricscherer.netlify.app/2019/05/17/the-evolution-of-a-ggplot-ep.-1/) — Blog post on how to turn a default ggplot into a plot that visualizes information in an appealing and easily understandable way
 
 ***
 
