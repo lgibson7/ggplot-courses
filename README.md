@@ -3,6 +3,7 @@
 Collection of teaching materials for the `R` package [`{ggplot2}`](https://ggplot2.tidyverse.org/).
 
 + ["An Introduction to {`ggplot2`}"](https://cedricscherer.netlify.com/slides/2019-08-28-intro-ggplot-statsizw#1) — Stats Group of the Leibniz Institute for Zoo and Wildlife Research (2019-08-28)
++ ["A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) — Extensive How-to-Tutorial based on a [version from 2016 by Zev Ross](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
 
 ***
 
