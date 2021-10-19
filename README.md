@@ -4,31 +4,36 @@ Collection of personal material and additional resources for the `R` package [`{
 
 ### Presentations
 
-+ **"ggplot Wizardry: My favorite tricks and secrets for beautiful plots in R"** — Outlier Conference 2021 hosted by the Data Visualization Society (Talk + Seminar)<br>
++ **“ggplot Wizardry: My favorite tricks and secrets for beautiful plots in R” ** — Outlier Conference 2021 hosted by the Data Visualization Society (Talk + Seminar)<br>
 [Slides](https://www.cedricscherer.com/slides/OutlierConf2021_ggplot-wizardry.pdf)&ensp;|&ensp;[Recording](https://youtu.be/7UjA_5gNvdw)&ensp;|&ensp;[Hands-On Tutorial](https://z3tt.github.io/OutlierConf2021/)
-+ **"ggplot Wizardry: My favorite tricks and secrets for beautiful plots in R (Extended Version)"** — useR Oslo<br>
++ **“ggplot Wizardry: My favorite tricks and secrets for beautiful plots in R (Extended Version)”** — useR Oslo<br>
 [Slides](https://www.cedricscherer.com/slides/useR-2021_ggplot-wizardry-extended.pdf)&ensp;|&ensp;[Recording](https://www.youtube.com/watch?v=5KHvEXYtnOo)
-+ **Beyond bar and box plots: chart alternatives and how to design them with ggplot2** — USGS Community for Data Integration 09|2021<br>
++ **“Beyond bar and box plots: chart alternatives and how to design them with ggplot2”** — USGS Community for Data Integration 09|2021<br>
 [Slides](https://www.cedricscherer.com/slides/USGS-2021-beyond-bar-and-box-plots.pdf)&ensp;|&ensp;[Recording](https://www.youtube.com/watch?v=WBA04fjTVU0)&ensp;|&ensp;[Hands-On Tutorial](https://z3tt.github.io/beyond-bar-and-box-plots)
-+ **My favorite ggplot2 extension packages** — R Ladies Tunis 07|2021<br>
++ **“My favorite ggplot2 extension packages”** — R Ladies Tunis 07|2021<br>
  [Slides](https://www.cedricscherer.com/slides/RLadiesTunis-2021-favorite-ggplot-extensions.pdf)&ensp;|&ensp;[Recording](https://youtu.be/8ikFe82Mb1I)
-+ **"An Introduction to {ggplot2}"** — Stats Group of the Leibniz Institute for Zoo and Wildlife Research (2019-08-28)<br>
++ **“An Introduction to {ggplot2}”** — Stats Group of the Leibniz Institute for Zoo and Wildlife Research (2019-08-28)<br>
 [Slides](https://cedricscherer.netlify.com/slides/2019-08-28-intro-ggplot-statsizw#1)
 
 ### Blog Posts
-+ [**"A {ggplot2} Tutorial for Beautiful Plotting in R**](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) — Extensive "How to"-tutorial based on a [version from 2016 by Zev Ross](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/) (Last Update: 2020-12-07)
-+ [**"The Evolution of a ggplot Part 1"**](https://cedricscherer.netlify.app/2019/05/17/the-evolution-of-a-ggplot-ep.-1/) — Blog post on how to turn a default ggplot into a plot that visualizes information in an appealing and easily understandable way
-+ [**"Visualizing Distributions with Raincloud Plots (and How to Create Them with ggplot2)"**](https://www.cedricscherer.com/2021/06/06/visualizing-distributions-with-raincloud-plots-and-how-to-create-them-with-ggplot2/) — Tutorial illustrating why raincloud plots are great and numerous ways how to create such hybrid charts with {ggplot2}
-+ [**"A Quick How-to on Labelling Bar Graphs in ggplot2"**](https://www.cedricscherer.com/2021/07/05/a-quick-how-to-on-labelling-bar-graphs-in-ggplot2/) — Blog poston how one can add percentage labels inside bar plots and how to highlight specific bars with {ggplot2}
++ [**“A {ggplot2} Tutorial for Beautiful Plotting in R”**](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) — Extensive "How to"-tutorial based on a [version from 2016 by Zev Ross](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/) (Last Update: 2020-12-07)
++ [**“The Evolution of a ggplot (Part 1)”**](https://cedricscherer.netlify.app/2019/05/17/the-evolution-of-a-ggplot-ep.-1/) — Blog post on how to turn a default ggplot into a plot that visualizes information in an appealing and easily understandable way
++ [**“Visualizing Distributions with Raincloud Plots (and How to Create Them with ggplot2)”**](https://www.cedricscherer.com/2021/06/06/visualizing-distributions-with-raincloud-plots-and-how-to-create-them-with-ggplot2/) — Tutorial illustrating why raincloud plots are great and numerous ways how to create such hybrid charts with {ggplot2}
++ [**“A Quick How-to on Labelling Bar Graphs in ggplot2”**](https://www.cedricscherer.com/2021/07/05/a-quick-how-to-on-labelling-bar-graphs-in-ggplot2/) — Blog poston how one can add percentage labels inside bar plots and how to highlight specific bars with {ggplot2}
+
 
 ***
+
 
 ### Helpful Resources
  
 * **Open-Access Books:**
-  + "ggplot2: Elegant Graphics for Data Analysis" by Hadley Wickham  →  [ggplot2-book.org](https://ggplot2-book.org/)
-  + "R for Data Science" by Hadley Wickham  →  [r4ds.had.co.nz](https://r4ds.had.co.nz/)
-  + "Data Visualization: A Practical Introduction" by Kieran Healy  →  [socviz.co](https://socviz.co/)
+  + “ggplot2: Elegant Graphics for Data Analysis” by Hadley Wickham  →  [ggplot2-book.org](https://ggplot2-book.org/)
+  + “R for Data Science” by Hadley Wickham  →  [r4ds.had.co.nz](https://r4ds.had.co.nz/)
+  + “Data Visualization: A Practical Introduction” by Kieran Healy  →  [socviz.co](https://socviz.co/)
+  + “R Graphics Cookbook” by Winston Chang  →  [r-graphics.org](https://r-graphics.org/)
+  + “Analyzing US Census Data: Methods, Maps, and Models in R” by Kyle Walker  →  [walker-data.com/census-r](https://walker-data.com/census-r/)
+
 
 * **Galleries:**
   + ggplot2 Extension Gallery  →  [exts.ggplot2.tidyverse.org/gallery](https://exts.ggplot2.tidyverse.org/gallery/)
@@ -36,11 +41,23 @@ Collection of personal material and additional resources for the `R` package [`{
   + Color Palettes in R  →  [github.com/EmilHvitfeldt/r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes/)
   + &#35;TidyTuesday Collection  →  [tidytuesday.rocks](http://tidytuesday.rocks/)
 
+
+* **Workshops/Tutorials:**
+  + “SDS 375: Data Visualization in R” by Claus Wilke — Lectures for the Spring 2021 semster  →  [](https://wilkelab.org/SDS375/)
+  + “Data Visualization in R” by Brooke Anderson — Workshop for the 2019 Navy and Marine Corps Public Health Conference →  [geanders.github.io/navy_public_health](https://geanders.github.io/navy_public_health/index.html#prerequisites)
+  + “BBC Visual and Data Journalism cookbook for R graphics”  →  [bbc.github.io/rcookbook](https://bbc.github.io/rcookbook/)
+  + “Data Visualization with R” by Rob Kabacoff  →  [rkabacoff.github.io/datavis](https://rkabacoff.github.io/datavis/)
+  + “Themes to Improve Your ggplot Figures”  →  [rfortherestofus.com](https://rfortherestofus.com/2019/08/themes-to-improve-your-ggplot-figures/)
+
+
 * **Get Help:**
   + RStudio Community  →  [community.rstudio.com](wwww.community.rstudio.com)
   + R4DS Learning Community  →  [rfordatasci.com](https://www.rfordatasci.com)
   + &#35;TidyTuesday Community  →  [#TidyTuesday on Twitter](https://twitter.com/hashtag/tidytuesday?lang=en)
   + ggplot2 Cheatsheet  →  [github.com/rstudio/cheatsheets](https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf)
+  + ggplot2 reference  →  [ggplot2.tidyverse.org/reference](https://ggplot2.tidyverse.org/reference/)
+  + aesthetics finder  →  [ggplot2tor.com/aesthetics](https://ggplot2tor.com/aesthetics/)
+
 
 * **Useful Packages (alphabetically):**
   + **`{cowplot}`** — plot arrangements, themes & annotations  →  [wilkelab.org/cowplot](https://wilkelab.org/cowplot/articles/introduction.html)
