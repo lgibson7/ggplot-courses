@@ -67,7 +67,6 @@ Collection of personal material and additional resources for the `R` package [`{
   + **`{ggforce}`** — several interesting add-on features   →  [ggforce.data-imaginist.com](https://ggforce.data-imaginist.com/)
   + **`{ggmaps}`** — access to Google & Stamen maps  →  [github.com/dkahle/ggmap](https://github.com/dkahle/ggmap)
   + **`{ggplotly}`** — create interactive plots  →  [plot.ly/ggplot2](https://plot.ly/ggplot2/)
-  + **`{ggpubr}`** — publication-ready plot in one line  →  [github.com/kassambara/ggpubr](https://github.com/kassambara/ggpubr)
   + **`{ggraph}`** — networks, graphs & trees  →  [github.com/thomasp85/ggraph](https://github.com/thomasp85/ggraph)
   + **`{ggrepel}`** — prevent overlapping text labels  →  [github.com/slowkow/ggrepel](https://github.com/slowkow/ggrepel)
   + **`{ggridges}`** — geoms for ridgeline plots  →  [github.com/clauswilke/ggridges](https://github.com/clauswilke/ggridges)
