@@ -43,7 +43,7 @@ Collection of personal material and additional resources for the `R` package [`{
 
 
 * **Workshops/Tutorials:**
-  + “SDS 375: Data Visualization in R” by Claus Wilke — Lectures for the Spring 2021 semster  →  [](https://wilkelab.org/SDS375/)
+  + “SDS 375: Data Visualization in R” by Claus Wilke — Lectures for the Spring 2021 semster  →  [wilkelab.org/SDS375](https://wilkelab.org/SDS375/)
   + “Data Visualization in R” by Brooke Anderson — Workshop for the 2019 Navy and Marine Corps Public Health Conference →  [geanders.github.io/navy_public_health](https://geanders.github.io/navy_public_health/index.html#prerequisites)
   + “BBC Visual and Data Journalism cookbook for R graphics”  →  [bbc.github.io/rcookbook](https://bbc.github.io/rcookbook/)
   + “Data Visualization with R” by Rob Kabacoff  →  [rkabacoff.github.io/datavis](https://rkabacoff.github.io/datavis/)
