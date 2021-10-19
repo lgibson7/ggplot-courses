@@ -1,6 +1,6 @@
 # 👨‍🏫  ggplot2 Teaching Material
  
-Collection of teaching materials for the `R` package [`{ggplot2}`](https://ggplot2.tidyverse.org/).
+Collection of personal material and additional resources for the `R` package [`{ggplot2}`](https://ggplot2.tidyverse.org/).
 
 ### Presentations
 
@@ -23,9 +23,9 @@ Collection of teaching materials for the `R` package [`{ggplot2}`](https://ggplo
 
 ***
 
-### Helpful Ressources
+### Helpful Resources
  
-* **Free Online Books:**
+* **Open-Access Books:**
   + "ggplot2: Elegant Graphics for Data Analysis" by Hadley Wickham  →  [ggplot2-book.org](https://ggplot2-book.org/)
   + "R for Data Science" by Hadley Wickham  →  [r4ds.had.co.nz](https://r4ds.had.co.nz/)
   + "Data Visualization: A Practical Introduction" by Kieran Healy  →  [socviz.co](https://socviz.co/)
@@ -53,14 +53,17 @@ Collection of teaching materials for the `R` package [`{ggplot2}`](https://ggplo
   + **`{ggpubr}`** — publication-ready plot in one line  →  [github.com/kassambara/ggpubr](https://github.com/kassambara/ggpubr)
   + **`{ggraph}`** — networks, graphs & trees  →  [github.com/thomasp85/ggraph](https://github.com/thomasp85/ggraph)
   + **`{ggrepel}`** — prevent overlapping text labels  →  [github.com/slowkow/ggrepel](https://github.com/slowkow/ggrepel)
-  + **`{ggridges}`** — geoms for joy plots  →  [github.com/clauswilke/ggridges](https://github.com/clauswilke/ggridges)
+  + **`{ggstream}`** — geoms for stream graphs  →  [github.com/davidsjoberg/ggstream](https://github.com/davidsjoberg/ggstream)
+  + **`{ggsankey}`** — geoms for sankey diagrams  →  [github.com/davidsjoberg/ggsankey](https://github.com/davidsjoberg/ggsankey)
+  + **`{ggbump}`** — geoms for bump charts  →  [github.com/davidsjoberg/ggbump](https://github.com/davidsjoberg/ggbump)
+  + **`{ggridges}`** — geoms for ridgeline plots  →  [github.com/clauswilke/ggridges](https://github.com/clauswilke/ggridges)
   + **`{ggtext}`** — rich-text rendering  →  [github.com/clauswilke/ggtext](https://github.com/clauswilke/ggtext)
   + **`{ggthemes}`** —  additional themes, sclaes & geoms →  [github.com/jrnold/ggthemes](https://github.com/jrnold/ggthemes)
   + **`{hrbrthemes}`** — typography-centric themes  →  [github.com/hrbrmstr/hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)
   + **`{lemon}`** — axis & legend add-ons  →  [github.com/stefanedwards/lemon](https://github.com/stefanedwards/lemon)
   + **`{patchwork}`** — combine ggplots  →  [github.com/thomasp85/patchwork](https://github.com/thomasp85/patchwork)
   + **`{rayshader}`** — hillshaded maps in 2D & 3D  →  [github.com/tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader)
-  + **`{showtext}`** — use custom fonts  →  [github.com/yixuan/showtext](https://github.com/yixuan/showtext)
+  + **`{systemfonts}`** — use custom fonts  →  [github.com/r-lib/systemfonts](https://github.com/r-lib/systemfonts)
 
 ***
 
