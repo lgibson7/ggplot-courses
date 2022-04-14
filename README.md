@@ -28,6 +28,7 @@ Collection of personal material and additional resources for the `R` package [`{
 [Slides](https://www.cedricscherer.com/slides/USGS-2021-beyond-bar-and-box-plots.pdf)&ensp;|&ensp;[Recording](https://www.youtube.com/watch?v=WBA04fjTVU0)&ensp;|&ensp;[Hands-On Tutorial](https://z3tt.github.io/beyond-bar-and-box-plots)
 + **“My favorite ggplot2 extension packages”** — R Ladies Tunis 07|2021<br>
  [Slides](https://www.cedricscherer.com/slides/RLadiesTunis-2021-favorite-ggplot-extensions.pdf)&ensp;|&ensp;[Recording](https://youtu.be/8ikFe82Mb1I)
++ **“#30DayMapChallenge: The good, the bad and the ugly of crafting maps with ggplot2”** — R Ladies Bangalore 12|2021<br>[Slides](https://www.cedricscherer.com/slides/RladiesBangalore_30DayMapChallenge.pdf)&ensp;|&ensp;[Recording](https://drive.google.com/file/d/1RU37oUE_7BHCkKzASC-I9R2-SMIjKAKT/view?usp=sharing)
 + **“An Introduction to {ggplot2}”** — Stats Group of the Leibniz Institute for Zoo and Wildlife Research 08|2019<br>
 [Slides](https://cedricscherer.netlify.com/slides/2019-08-28-intro-ggplot-statsizw#1)
 
