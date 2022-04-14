@@ -1,5 +1,5 @@
 <h1 style="font-weight:normal" align="center">
-  &nbsp;👨‍🏫  ggplot2 Teaching Material&nbsp;
+  &nbsp;👨‍🏫  {ggplot2} Teaching Material&nbsp;
 </h1>
 
 <div align="center">
@@ -18,7 +18,7 @@ Collection of personal material and additional resources for the `R` package [`{
 </div>
 <br>
 
-### Presentations
+### Selected Presentations on {ggplot2}
 
 + **“ggplot Wizardry: My favorite tricks and secrets for beautiful plots in R”** — Outlier Conference 2021 hosted by the Data Visualization Society (Talk + Seminar)<br>
 [Slides](https://www.cedricscherer.com/slides/OutlierConf2021_ggplot-wizardry.pdf)&ensp;|&ensp;[Recording](https://youtu.be/7UjA_5gNvdw)&ensp;|&ensp;[Hands-On Tutorial](https://z3tt.github.io/OutlierConf2021/)
@@ -29,10 +29,8 @@ Collection of personal material and additional resources for the `R` package [`{
 + **“My favorite ggplot2 extension packages”** — R Ladies Tunis 07|2021<br>
  [Slides](https://www.cedricscherer.com/slides/RLadiesTunis-2021-favorite-ggplot-extensions.pdf)&ensp;|&ensp;[Recording](https://youtu.be/8ikFe82Mb1I)
 + **“#30DayMapChallenge: The good, the bad and the ugly of crafting maps with ggplot2”** — R Ladies Bangalore 12|2021<br>[Slides](https://www.cedricscherer.com/slides/RladiesBangalore_30DayMapChallenge.pdf)&ensp;|&ensp;[Recording](https://drive.google.com/file/d/1RU37oUE_7BHCkKzASC-I9R2-SMIjKAKT/view?usp=sharing)
-+ **“An Introduction to {ggplot2}”** — Stats Group of the Leibniz Institute for Zoo and Wildlife Research 08|2019<br>
-[Slides](https://cedricscherer.netlify.com/slides/2019-08-28-intro-ggplot-statsizw#1)
 
-### Blog Posts
+### Selected Blog Posts about {ggplot2}
 + [**“A {ggplot2} Tutorial for Beautiful Plotting in R”**](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) — Extensive "How to"-tutorial based on a [version from 2016 by Zev Ross](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
 + [**“The Evolution of a ggplot (Part 1)”**](https://cedricscherer.netlify.app/2019/05/17/the-evolution-of-a-ggplot-ep.-1/) — Blog post on how to turn a default ggplot into a plot that visualizes information in an appealing and easily understandable way
 + [**“Visualizing Distributions with Raincloud Plots (and How to Create Them with ggplot2)”**](https://www.cedricscherer.com/2021/06/06/visualizing-distributions-with-raincloud-plots-and-how-to-create-them-with-ggplot2/) — Tutorial illustrating why raincloud plots are great and numerous ways how to create such hybrid charts with {ggplot2}
@@ -45,57 +43,58 @@ Collection of personal material and additional resources for the `R` package [`{
 ### Helpful Resources
  
 * **Open-Access Books:**
-  + “ggplot2: Elegant Graphics for Data Analysis” by Hadley Wickham  →  [ggplot2-book.org](https://ggplot2-book.org/)
-  + “R for Data Science” by Hadley Wickham  →  [r4ds.had.co.nz](https://r4ds.had.co.nz/)
-  + “Data Visualization: A Practical Introduction” by Kieran Healy  →  [socviz.co](https://socviz.co/)
-  + “R Graphics Cookbook” by Winston Chang  →  [r-graphics.org](https://r-graphics.org/)
-  + “Analyzing US Census Data: Methods, Maps, and Models in R” by Kyle Walker  →  [walker-data.com/census-r](https://walker-data.com/census-r/)
+  + [“ggplot2: Elegant Graphics for Data Analysis”](https://ggplot2-book.org/) by Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen.
+  + [“R for Data Science”](https://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund
+  + [“Data Visualization: A Practical Introduction”](https://socviz.co/) by Kieran Healy
+  + [“R Graphics Cookbook”](https://r-graphics.org/) by Winston Chang
+  + [“Analyzing US Census Data: Methods, Maps, and Models in R”](https://walker-data.com/census-r/) by Kyle Walker
 
 
 * **Galleries:**
-  + ggplot2 Extension Gallery  →  [exts.ggplot2.tidyverse.org/gallery](https://exts.ggplot2.tidyverse.org/gallery/)
-  + R Graph Gallery  →  [r-graph-gallery.com](https://www.r-graph-gallery.com/)
-  + Color Palettes in R  →  [github.com/EmilHvitfeldt/r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes/)
-  + &#35;TidyTuesday Collection  →  [tidytuesday.rocks](http://tidytuesday.rocks/)
+  + [ggplot2 Extension Gallery](https://exts.ggplot2.tidyverse.org/gallery/)
+  + [R Graph Gallery](https://www.r-graph-gallery.com/)
+  + [Color Palettes in R](https://github.com/EmilHvitfeldt/r-color-palettes/) (unofrtunately quite outdated by now)
+  + &#35;TidyTuesday Community: [#TidyTuesday on Twitter](https://twitter.com/hashtag/tidytuesday?lang=en)
+  + &#35;TidyTuesday Collection: [tidytuesday.rocks](http://tidytuesday.rocks/)
 
 
 * **Workshops/Tutorials:**
-  + “SDS 375: Data Visualization in R” by Claus Wilke — Lectures for the Spring 2021 semster  →  [wilkelab.org/SDS375](https://wilkelab.org/SDS375/)
-  + “Data Visualization in R” by Brooke Anderson — Workshop for the 2019 Navy and Marine Corps Public Health Conference →  [geanders.github.io/navy_public_health](https://geanders.github.io/navy_public_health/index.html#prerequisites)
-  + “BBC Visual and Data Journalism cookbook for R graphics”  →  [bbc.github.io/rcookbook](https://bbc.github.io/rcookbook/)
-  + “Data Visualization with R” by Rob Kabacoff  →  [rkabacoff.github.io/datavis](https://rkabacoff.github.io/datavis/)
-  + “Themes to Improve Your ggplot Figures”  →  [rfortherestofus.com](https://rfortherestofus.com/2019/08/themes-to-improve-your-ggplot-figures/)
+  + [“SDS 375: Data Visualization in R”](https://wilkelab.org/SDS375/) by Claus Wilke — Lectures for the Spring 2021 semester
+  + [“Data Visualization in R” by Brooke Anderson](https://geanders.github.io/navy_public_health/index.html#prerequisites) — Workshop for the 2019 Navy and Marine Corps Public Health Conference
+  + [“BBC Visual and Data Journalism cookbook for R graphics”](https://bbc.github.io/rcookbook/)
+  + [“Data Visualization with R” by Rob Kabacoff](https://rkabacoff.github.io/datavis/)
+  + [“Themes to Improve Your ggplot Figures”](https://rfortherestofus.com/2019/08/themes-to-improve-your-ggplot-figures/) by R for the Rest of Us
 
 
 * **Get Help:**
-  + RStudio Community  →  [community.rstudio.com](wwww.community.rstudio.com)
-  + R4DS Learning Community  →  [rfordatasci.com](https://www.rfordatasci.com)
-  + &#35;TidyTuesday Community  →  [#TidyTuesday on Twitter](https://twitter.com/hashtag/tidytuesday?lang=en)
-  + ggplot2 Cheatsheet  →  [github.com/rstudio/cheatsheets](https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf)
-  + ggplot2 reference  →  [ggplot2.tidyverse.org/reference](https://ggplot2.tidyverse.org/reference/)
-  + aesthetics finder  →  [ggplot2tor.com/aesthetics](https://ggplot2tor.com/aesthetics/)
+  + [Official ggplot2 reference](https://ggplot2.tidyverse.org/reference/)
+  + [Official ggplot2 cheatsheet](https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf)
+  + [RStudio Community](https://community.rstudio.com/)
+  + [R4DS Learning Community](https://www.rfordatasci.com)
+  + [aesthetics finder](https://ggplot2tor.com/aesthetics/)
 
 
 * **Useful Packages (alphabetically):**
-  + **`{cowplot}`** — plot arrangements, themes & annotations  →  [wilkelab.org/cowplot](https://wilkelab.org/cowplot/articles/introduction.html)
-  + **`{ggalt}`** — alternative coords, geoms, stats & scales  →  [github.com/hrbrmstr/ggalt](https://github.com/hrbrmstr/ggalt)
-  + **`{gganimate}`** — create animations  →  [gganimate.com](https://gganimate.com/)
-  + **`{ggbump}`** — geoms for bump charts  →  [github.com/davidsjoberg/ggbump](https://github.com/davidsjoberg/ggbump)
-  + **`{ggforce}`** — several interesting add-on features   →  [ggforce.data-imaginist.com](https://ggforce.data-imaginist.com/)
-  + **`{ggmaps}`** — access to Google & Stamen maps  →  [github.com/dkahle/ggmap](https://github.com/dkahle/ggmap)
-  + **`{ggplotly}`** — create interactive plots  →  [plot.ly/ggplot2](https://plot.ly/ggplot2/)
-  + **`{ggraph}`** — networks, graphs & trees  →  [github.com/thomasp85/ggraph](https://github.com/thomasp85/ggraph)
-  + **`{ggrepel}`** — prevent overlapping text labels  →  [github.com/slowkow/ggrepel](https://github.com/slowkow/ggrepel)
-  + **`{ggridges}`** — geoms for ridgeline plots  →  [github.com/clauswilke/ggridges](https://github.com/clauswilke/ggridges)
-  + **`{ggsankey}`** — geoms for sankey diagrams  →  [github.com/davidsjoberg/ggsankey](https://github.com/davidsjoberg/ggsankey)
-  + **`{ggstream}`** — geoms for stream graphs  →  [github.com/davidsjoberg/ggstream](https://github.com/davidsjoberg/ggstream)
-  + **`{ggtext}`** — rich-text rendering  →  [github.com/clauswilke/ggtext](https://github.com/clauswilke/ggtext)
-  + **`{ggthemes}`** —  additional themes, sclaes & geoms →  [github.com/jrnold/ggthemes](https://github.com/jrnold/ggthemes)
-  + **`{hrbrthemes}`** — typography-centric themes  →  [github.com/hrbrmstr/hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)
-  + **`{lemon}`** — axis & legend add-ons  →  [github.com/stefanedwards/lemon](https://github.com/stefanedwards/lemon)
-  + **`{patchwork}`** — combine ggplots  →  [github.com/thomasp85/patchwork](https://github.com/thomasp85/patchwork)
-  + **`{rayshader}`** — hillshaded maps in 2D & 3D  →  [github.com/tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader)
-  + **`{systemfonts}`** — use custom fonts  →  [github.com/r-lib/systemfonts](https://github.com/r-lib/systemfonts)
+  + [**`{cowplot}`**](https://wilkelab.org/cowplot/articles/introduction.html) — plot arrangements, themes & annotations
+  + [**`{ggalt}`**](https://github.com/hrbrmstr/ggalt) — alternative coords, geoms, stats & scales
+  + [**`{gganimate}`**](https://gganimate.com/) — create animations
+  + [**`{ggbump}`**](https://github.com/davidsjoberg/ggbump) — geoms for bump charts
+  + [**`{ggforce}`**](https://ggforce.data-imaginist.com/) — several interesting add-on features
+  + [**`{ggiraph}`**](https://davidgohel.github.io/ggiraph/) — geoms for dynamic, interactive visualizations
+  + [**`{ggmaps}`**](https://github.com/dkahle/ggmap) — access to Google & Stamen maps
+  + [**`{ggplotly}`**](https://plot.ly/ggplot2/) — create interactive plots
+  + [**`{ggraph}`**](https://github.com/thomasp85/ggraph) — networks, graphs & trees
+  + [**`{ggrepel}`**](https://github.com/slowkow/ggrepel) — prevent overlapping text labels
+  + [**`{ggridges}`**](https://github.com/clauswilke/ggridges) — geoms for ridgeline plots
+  + [**`{ggsankey}`**](https://github.com/davidsjoberg/ggsankey) — geoms for sankey diagrams
+  + [**`{ggstream}`**](https://github.com/davidsjoberg/ggstream) — geoms for stream graphs
+  + [**`{ggtext}`**](https://github.com/clauswilke/ggtext) — rich-text rendering
+  + [**`{ggthemes}`**](https://github.com/jrnold/ggthemes) —  additional themes, scales & geoms
+  + [**`{hrbrthemes}`**](https://github.com/hrbrmstr/hrbrthemes) — typography-centric, minimal themes
+  + [**`{lemon}`**](https://github.com/stefanedwards/lemon) — axis & legend add-ons
+  + [**`{patchwork}`**](https://github.com/thomasp85/patchwork) — combine ggplots to multi-panel graphics
+  + [**`{rayshader}`**](https://github.com/tylermorganwall/rayshader) — hillshaded maps in 2D & 3D
+  + [**`{systemfonts}`**](https://github.com/r-lib/systemfonts) — use custom fonts (replaces `{extrafont}` and `{showtext}`)
 
 ***
 
