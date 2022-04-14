@@ -18,7 +18,7 @@ Collection of personal material and additional resources for the `R` package [`{
 </div>
 <br>
 
-### Selected Presentations on {ggplot2}
+## Selected Presentations on {ggplot2}
 
 + **“ggplot Wizardry: My favorite tricks and secrets for beautiful plots in R”** — Outlier Conference 2021 hosted by the Data Visualization Society (Talk + Seminar)<br>
 [Slides](https://www.cedricscherer.com/slides/OutlierConf2021_ggplot-wizardry.pdf)&ensp;|&ensp;[Recording](https://youtu.be/7UjA_5gNvdw)&ensp;|&ensp;[Hands-On Tutorial](https://z3tt.github.io/OutlierConf2021/)
@@ -30,17 +30,18 @@ Collection of personal material and additional resources for the `R` package [`{
  [Slides](https://www.cedricscherer.com/slides/RLadiesTunis-2021-favorite-ggplot-extensions.pdf)&ensp;|&ensp;[Recording](https://youtu.be/8ikFe82Mb1I)
 + **“#30DayMapChallenge: The good, the bad and the ugly of crafting maps with ggplot2”** — R Ladies Bangalore 12|2021<br>[Slides](https://www.cedricscherer.com/slides/RladiesBangalore_30DayMapChallenge.pdf)&ensp;|&ensp;[Recording](https://drive.google.com/file/d/1RU37oUE_7BHCkKzASC-I9R2-SMIjKAKT/view?usp=sharing)
 
-### Selected Blog Posts about {ggplot2}
+<br>  
+
+## Selected Blog Posts about {ggplot2}
+
 + [**“A {ggplot2} Tutorial for Beautiful Plotting in R”**](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) — Extensive "How to"-tutorial based on a [version from 2016 by Zev Ross](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
 + [**“The Evolution of a ggplot (Part 1)”**](https://cedricscherer.netlify.app/2019/05/17/the-evolution-of-a-ggplot-ep.-1/) — Blog post on how to turn a default ggplot into a plot that visualizes information in an appealing and easily understandable way
 + [**“Visualizing Distributions with Raincloud Plots (and How to Create Them with ggplot2)”**](https://www.cedricscherer.com/2021/06/06/visualizing-distributions-with-raincloud-plots-and-how-to-create-them-with-ggplot2/) — Tutorial illustrating why raincloud plots are great and numerous ways how to create such hybrid charts with {ggplot2}
 + [**“A Quick How-to on Labelling Bar Graphs in ggplot2”**](https://www.cedricscherer.com/2021/07/05/a-quick-how-to-on-labelling-bar-graphs-in-ggplot2/) — Blog poston how one can add percentage labels inside bar plots and how to highlight specific bars with {ggplot2}
 
+<br><hr><br> 
 
-***
-
-
-### Helpful Resources
+## Helpful Resources
  
 * **Open-Access Books:**
   + [“ggplot2: Elegant Graphics for Data Analysis”](https://ggplot2-book.org/) by Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen.
